@@ -1,3 +1,7 @@
 Cuento de Blancanieves
 
+<<<<<<< HEAD
 Había una vez una princesa muy hermosa. Vivía con su madrastra malvada, que la hacia trabajar muy duro en la casa
+=======
+Había una vez una princesa muy hermosa. Vivía con su madrastra malvada, que la hacia trabajar en la casa como loca haciendo todos los queaceres de la casa
+>>>>>>> 8497a74da81d5eb79704b160036c6827cc0461f7
